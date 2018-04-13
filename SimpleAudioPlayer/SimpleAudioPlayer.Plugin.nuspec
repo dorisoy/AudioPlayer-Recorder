@@ -6,7 +6,7 @@
 		<title>SimpleAudioPlayer Plugin for Xamarin and Windows</title>
 		<authors>Adrian Stevens</authors>
 		<owners>Adrian Stevens</owners>
-    <releaseNotes>Added Tizen 4 support! + several bug fixes</releaseNotes>
+    <releaseNotes>API cleanup and bug fixes, Tizen 4 added to code base (no package yet)</releaseNotes>
     <copyright>Copyright ©2017-2018 Adrian Stevens</copyright>
     <licenseUrl>
       https://github.com/adrianstevens/Xamarin-Plugins/blob/master/License.txt
